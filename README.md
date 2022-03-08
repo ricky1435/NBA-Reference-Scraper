@@ -6,3 +6,6 @@ Webscraping the popular webiste [basketball-reference](https://www.basketball-re
 ## Prerequisits
 Core Library: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)</br>
 Other libraries: HTMLTableParser, pandas, urllib.request, pprint
+
+## Author
+[Ruthvik PVS](https://github.com/ricky1435)
